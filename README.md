@@ -10,3 +10,29 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 </a>
 
 </div>
+
+## 📝 Contents List
+- [소개]()
+- [CS]()
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [TypeScript]()
+- [Front-End]()
+- [Back-End]()
+
+## 🧑🏻‍💻 Introduce
+
+## 💡 CS
+
+## 💡 HTML
+
+## 💡 CSS
+
+## 💡 JavaScript
+
+## 💡 TypeScript
+
+## 💡 Front-End
+
+## 💡 Back-End
