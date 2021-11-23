@@ -1,2 +1,2 @@
 # Interview_Question
-:+1: Technical-Interview guidelines with Developer in Ajou Univ
+Technical-Interview guidelines with Developer in Ajou Univ :+1:
