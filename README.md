@@ -13,7 +13,6 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 ## 📝 Contents List
 - [소개]()
-- [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/blob/main/Memory/README.md)
 - [CS]()
 - [HTML]()
 - [CSS]()
@@ -31,22 +30,9 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 질문은 Issue에 올려주시면 답변을 달아드리겠습니다. <br />
 감사합니다. 🙇🏻 <br />
 
-## 💡 Memory
-- 메모리 관리란?
-- 메모리 사용 과정
-- 스택
-- 힙
-- 가비지 컬랙션
-- Process 노드 모듈
-- 특징
-- Resident Set
-- Garbage Collection
-- 마이너 GC ( Scavenger )
-- Scavenger 알고리즘
-- 메이저 GC
-- V8 메모리 사용 ( 스택 vs 힙 )
 
 ## 💡 CS
+- [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/blob/main/Memory/README.md)
 
 ## 💡 HTML
 
