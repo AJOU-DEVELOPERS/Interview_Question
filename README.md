@@ -13,6 +13,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 ## 📝 Contents List
 - [소개]()
+- [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/blob/main/Memory/README.md)
 - [CS]()
 - [HTML]()
 - [CSS]()
@@ -29,6 +30,8 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 기술 면접 관련된 모든 직무에 대해서 자료를 추가하는 것은 환영입니다. <br />
 질문은 Issue에 올려주시면 답변을 달아드리겠습니다. <br />
 감사합니다. 🙇🏻 <br />
+
+## 💡 Memory
 
 ## 💡 CS
 
