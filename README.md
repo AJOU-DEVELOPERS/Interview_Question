@@ -32,7 +32,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 
 ## 💡 CS
-- [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/blob/main/Memory/README.md)
+- [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Memory)
 
 ## 💡 HTML
 
