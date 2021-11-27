@@ -33,6 +33,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 
 ## 💡 CS
+- [Cache](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Cache)
 - [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Memory)
 
 ## 💡 HTML
@@ -41,7 +42,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 ## 💡 Programming
 - [객체지향](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/Programming/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-
+- [함수형프로그래밍](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/Programming/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 ## 💡 JavaScript
 - [V8 엔진](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/V8)
 - [메모리 사용](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9A%A9)
