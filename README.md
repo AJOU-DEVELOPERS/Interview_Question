@@ -13,10 +13,10 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 ## 📝 Contents List
 - [소개]()
-- [CS]()
+- [CS](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS)
 - [HTML]()
 - [CSS]()
-- [JavaScript]()
+- [JavaScript](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript)
 - [TypeScript]()
 - [Front-End]()
 - [Back-End]()
@@ -39,6 +39,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 ## 💡 CSS
 
 ## 💡 JavaScript
+- [V8 엔진](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/V8)
 
 ## 💡 TypeScript
 
