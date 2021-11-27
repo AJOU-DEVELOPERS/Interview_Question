@@ -40,6 +40,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 ## 💡 JavaScript
 - [V8 엔진](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/V8)
+- [메모리 사용](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9A%A9)
 
 ## 💡 TypeScript
 
