@@ -36,7 +36,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 - [Cache](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Cache)
 - [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Memory)
 - [Linux](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Linux)
-- [Process](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
+- [Process](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Process)
 - [Thread](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Thread)
 
 ## 💡 HTML
