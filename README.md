@@ -54,6 +54,7 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 - [V8 엔진](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/V8)
 - [메모리 사용](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9A%A9)
 - [이벤트 루프](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/EventLoop)
+- [이벤트 핸들러](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/EventHandler)
 
 ## 💡 TypeScript
 
