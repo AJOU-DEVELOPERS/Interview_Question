@@ -61,5 +61,6 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 ## 💡 Front-End
 
 - [Browser](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/FrontEnd/Browser)
+- [Observer](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/FrontEnd/Observer)
 
 ## 💡 Back-End
