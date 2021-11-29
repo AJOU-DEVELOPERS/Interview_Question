@@ -1,9 +1,10 @@
 # 🧐 Interview_Question
+
 Technical-Interview guidelines with Developer in Ajou Univ :+1:
 
 <div align=center>
 
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-1-green.svg?style=flat-square)](https://github.com/AJOU-DEVELOPERS/Interview_Question)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-green.svg?style=flat-square)](https://github.com/AJOU-DEVELOPERS/Interview_Question)
 
 <a href="https://github.com/AJOU-DEVELOPERS/Interview_Question/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AJOU-DEVELOPERS/Interview_Question" />
@@ -12,14 +13,14 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 </div>
 
 ## 📝 Contents List
+
 - [소개]()
 - [CS](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS)
 - [HTML]()
 - [CSS]()
 - [Programming](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/Programming)
 - [JavaScript](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript)
-- [TypeScript]()
-- [Front-End]()
+- [Front-End](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/FrontEnd)
 - [Back-End]()
 
 ## 🧑🏻‍💻 Introduce
@@ -31,24 +32,33 @@ Technical-Interview guidelines with Developer in Ajou Univ :+1:
 질문은 Issue에 올려주시면 답변을 달아드리겠습니다. <br />
 감사합니다. 🙇🏻 <br />
 
-
 ## 💡 CS
+
 - [Cache](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Cache)
 - [Memory](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Memory)
+- [Linux](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Linux)
+- [Process](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Process)
+- [Thread](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/CS/Thread)
 
 ## 💡 HTML
 
 ## 💡 CSS
 
 ## 💡 Programming
+
 - [객체지향](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/Programming/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [함수형프로그래밍](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/Programming/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+
 ## 💡 JavaScript
+
 - [V8 엔진](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/V8)
 - [메모리 사용](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9A%A9)
 - [이벤트 루프](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/JavaScript/EventLoop)
+
 ## 💡 TypeScript
 
 ## 💡 Front-End
+
+- [Browser](https://github.com/AJOU-DEVELOPERS/Interview_Question/tree/main/FrontEnd/Browser)
 
 ## 💡 Back-End
