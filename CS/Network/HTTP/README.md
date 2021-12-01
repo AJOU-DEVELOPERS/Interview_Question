@@ -107,6 +107,8 @@ HTTP 요청이란 클라이언트가 서버로 보내는 이진 데이터 패킷
 
 > # HTTP/2 규격과 HTTP/3 규격에 대해 학습
 
+![](https://images.velog.io/images/jinpro/post/8fb3f289-0c06-4940-a93e-44131e1f3b3b/Comparison-of-HTTP-versions.png)
+
 ### HTTP/0.9
 
 - 초기 HTTP
@@ -133,4 +135,27 @@ HTTP 요청이란 클라이언트가 서버로 보내는 이진 데이터 패킷
 - CSS와 Image 파일 수신 순서에 상관 없이 우선순위를 설정하여 브라우저 렌더링 속도 향상
 - HTTP/1.1에서는 서버가 HTML을 보내주면 클라이언트가 HTML을 읽으면서 CSS를 서버에 다시 요청했으나 HTTP/2.0부터는 서버가 HTML과 동시에 보내게 되었음.
 
-![](https://images.velog.io/images/jinpro/post/8fb3f289-0c06-4940-a93e-44131e1f3b3b/Comparison-of-HTTP-versions.png)
+#### 단점
+
+TCP를 이용하기 때문에 RTT ( Round Trip Time ) 으로 인한 Latency가 존재하였다.
+
+#### RTT
+
+- 클라이언트가 요청을 보내고 서버가 처리한 후 다시 클라이언트로 응답해주는 사이클
+- TCP는 연결 1RTT 와 TLS를 사용한 암호화와 TLS 자체 핸드쉐이크로 인한 3RTT가 필요하다.
+
+### QUIC
+
+- Quick UDP Internet Connections
+- UDP 기반 TCP + TLS + HTTP의 기능을 모두 구현하는 프로토콜
+- HTTP/3의 기반이되었다.
+
+### HTTP/3.0
+
+- UDP 기반의 프로토콜인 QUIC을 사용하여 통신하는 프로토콜
+- 신뢰성 통신을 포기한 것은 아니다. ( 첫 요청 시 서버의 세션 키를 모르기 때문에 서버의 Connection ID를 사용하여 암호화한다. )
+- QUIC은 첫 연결에 설정에 필요한 정보와 데이터를 함께 보내기 때문에 1RTT가 소모된다.
+- 연결 성공하면 설정을 캐싱해놓는다. => 이후 통신 0 RTT 사용
+- 패킷에 대한 흐름 제어
+- 멀티플렉싱 지원
+- Connection ID를 사용하여 서버와 연결하기 때문에 IP 주소가 바뀌어도 연결 유지
